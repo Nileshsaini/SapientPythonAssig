@@ -1,0 +1,29 @@
+Welcome world!!!!
+q = quit
+w=write
+%s/find_word/replace/gc
+g=global
+c=confirm
+yy=copy(yankie)
+p=paste
+dd=delete
+u=undo
+ctrl+r=redo
+shift+v=visual mode
+ctrl+v=visual block
+
+
+
+
+
+Welcome world!!!!
+Hello world!!!!
+some changes
+jkh
+dinf dOng
+ding dong
+some changes
+jkh
+Hello world!!!!
+
+

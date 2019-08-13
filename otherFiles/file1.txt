@@ -1,0 +1,11 @@
+this is the new file1
+the is the the second line
+:w 
+the is the the second line
+the is the the second line
+the is the the second line
+the is the the second line
+the is the the second line
+the is the the second line
+the is the the second line
+the is the the second line
